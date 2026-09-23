@@ -1,3 +1,3 @@
-Nombre: Tu Nombre
-Apellidos: Tus Apellidos
+Nombre: Daniel Godtime
+Apellidos: Emankhu Da Silva
 Módulos: OPOF, aplicaciones web,IPED
